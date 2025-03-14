@@ -11,22 +11,22 @@ const milestones = [
   {
     title: "🛠️ MVP Release",
     description: "Complete core hotel, flight, and logistics",
-    due_on: "2025-03-31",
+    due_on: "2025-03-31T23:59:59Z",
   },
   {
     title: "💳 Payment Integration",
     description: "Implement Paystack and Binance Pay",
-    due_on: "2025-03-14",
+    due_on: "2025-03-14T23:59:59Z",
   },
   {
     title: "📊 Admin & Hotel Dashboard",
     description: "Complete admin and hotel listing dashboard",
-    due_on: "2025-03-21",
+    due_on: "2025-03-21T23:59:59Z",
   },
   {
     title: "🚀 Deployment",
     description: "Finalize and deploy project on production",
-    due_on: "2025-03-28",
+    due_on: "2025-03-28T23:59:59Z",
   },
 ];
 
